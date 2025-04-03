@@ -9,4 +9,5 @@ Passionate about **intelligent systems** and **scalable solutions**.
 🔹 Firebase | PostgreSQL | MongoDB  
 🔹 AI & ML | Data Science
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/](https://www.linkedin.com/in/adityawalte?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adityawalte)
+
